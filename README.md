@@ -71,3 +71,15 @@ Gracias al uso de inteligencia artificial y blockchain, la plataforma combina ed
 El impacto social del proyecto también es importante, ya que fomenta la creatividad, el pensamiento crítico y la participación de los jóvenes en soluciones para un futuro más sostenible.
 
 ---
+
+## Integrantes
+
+- Brisa Valdivieso
+
+- Fabel Campoverde
+
+- Ana Laura Hidalgo
+
+- Marielisa Gómez
+
+- Josselyn Arcos
