@@ -76,8 +76,6 @@ El impacto social del proyecto también es importante, ya que fomenta la creativ
 
 - Brisa Valdivieso
 
-- Fabel Campoverde
-
 - Ana Laura Hidalgo
 
 - Marielisa Gómez
