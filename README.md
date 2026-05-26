@@ -12,6 +12,20 @@ Cuando los jóvenes pierden interés en las matemáticas, también disminuye su 
 
 ---
 
+##Solución del proyecto
+
+SustainIQ es una plataforma educativa inteligente que combina matemáticas, sostenibilidad, inteligencia artificial y gamificación para crear una experiencia de aprendizaje más dinámica y motivadora.
+
+La aplicación permite que los estudiantes aprendan matemáticas mediante ejercicios interactivos y retos relacionados con problemas reales del medio ambiente. A través de inteligencia artificial, la plataforma adapta automáticamente la dificultad de los ejercicios según el nivel y progreso de cada usuario, ofreciendo una experiencia personalizada.
+
+Además, SustainIQ incorpora desafíos ecológicos como reciclaje, ahorro de agua o reducción de consumo energético. Cada actividad completada permite ganar puntos y recompensas dentro de la aplicación, incentivando la participación y la motivación estudiantil.
+
+Para garantizar seguridad y transparencia, los puntos y logros obtenidos se registran mediante tecnología blockchain, evitando modificaciones o trampas dentro del sistema.
+
+De esta manera, SustainIQ busca transformar el aprendizaje tradicional en una experiencia moderna, divertida e innovadora que conecte la educación con el cuidado del planeta.
+
+---
+
 ## Objetivos del proyecto
 
 - Motivar a los estudiantes a aprender matemáticas de forma divertida e interactiva.
