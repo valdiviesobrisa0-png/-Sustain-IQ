@@ -12,7 +12,8 @@ Cuando los jóvenes pierden interés en las matemáticas, también disminuye su 
 
 ---
 
-#Solución del proyecto
+## solucion del proyecto 
+
 
 SustainIQ es una plataforma educativa inteligente que combina matemáticas, sostenibilidad, inteligencia artificial y gamificación para crear una experiencia de aprendizaje más dinámica y motivadora.
 
